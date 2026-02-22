@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Direct3D9-DebugFramework/Direct3D9-DebugFramework.vcxproj" />
+</Solution>
